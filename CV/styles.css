@@ -1,0 +1,109 @@
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+  /* text-transform: uppercase; */
+  font-family: 'Noto Serif', serif;
+}
+
+.intro {
+  background-color: #2f5a78;
+  color: white;
+  padding-left: 16px;
+  padding-bottom: 8px;
+  margin-bottom: 4px;
+}
+
+body {
+  font-family: "Gill Sans", Calibri, "Trebuchet MS", sans-serif;
+  padding: 1%;
+}
+
+img {
+  float: right;
+}
+
+.prof {
+  font-size: 20px;
+  font-weight: lighter;
+}
+.contactinfo {
+  font-size: 15px;
+  padding-left: 16px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  background-color: #eeeeee;
+}
+.subheading {
+  font-size: 20px;
+  font-weight: bold;
+  color: #2f5a78;
+  text-transform: uppercase;
+  padding-left: 16px;
+  padding-bottom: 16px;
+}
+
+.skills ul li {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: -15px;
+}
+
+.skills ul li .skill_prog {
+  width: 60%;
+  height: 5px;
+  position: relative;
+}
+.skills ul li .skill_prog span {
+  position: absolute;
+  height: 100%;
+  background: #2f5a78;
+  padding-right: 50px;
+}
+
+.skill_name {
+  width: 175px;
+}
+
+.skil_per {
+  margin-right: 15px;
+}
+
+.icon {
+  color: #2f5a78;
+  float: left;
+}
+
+.fas {
+  padding-right: 10px;
+}
+
+.data {
+  text-align: left;
+  padding-left: 15px;
+}
+
+.date,
+.jobtitle {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.intersets{
+  font-size: 20px;
+  color: #2f5a78;
+  padding-left: 16px;
+  padding-bottom: 16px;
+}
+
+.social {
+  padding-left: 16px;
+}
+
+.education{
+  font-size: 18px;
+  font-style: italic;
+  color:black;
+}
