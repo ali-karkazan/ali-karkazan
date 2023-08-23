@@ -1,5 +1,6 @@
 <h1>Hi, I'm Ali! <br/><a href="https://www.linkedin.com/in/ali-karkazan/">Airport Operation Officer</a>, <a href="https://www.linkedin.com/in/ali-karkazan/">Cybersecurity Professional</a>,
 <a href="https://www.linkedin.com/in/ali-karkazan/">Web Developer</a>
+<a href="https://ali-karkazan.github.io/CV/">My CV</a>
 
 <h2>Projects:</h2>
 
