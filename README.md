@@ -61,7 +61,7 @@ with a proven track record of success in managing complex operations and ensurin
 
 ### 🌱 My latest projects
 
-- [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
+- [Linux Server Configration](https://github.com/ali-karkazan/Linux-server) - Explination on how to deploy the project Item Catalog and setup the network and firewall settings,
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - Passkeys Demo
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
