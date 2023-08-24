@@ -47,3 +47,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Ali Karkazan
+
+I am an Airport operations and cybersecurity professional.
+with a proven track record of success in managing complex operations and ensuring the safety and security of airport facilities and systems.
+
+[`🏠 Ali Karkazan.me`](https://ali-karkazan.github.io/CV/)
+[`📫 ali.karkazan@icloud.com`](mailto:ali.karkazan@icloud.com)
+
+
+
+### 🌱 My latest projects
+
+- [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
+- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - Passkeys Demo
+- [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
+- [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
+- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
