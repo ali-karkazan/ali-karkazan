@@ -62,7 +62,8 @@ with a proven track record of success in managing complex operations and ensurin
 ### 🌱 My latest projects
 
 - [Linux Server Configration](https://github.com/ali-karkazan/Linux-server) - Explination on how to deploy the project Item Catalog and setup the network and firewall settings,
-- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - Passkeys Demo
+- [Item Catalog Application](https://github.com/ali-karkazan/final-item-catalog) - a Web application that provides a list of items within a variety of categories as well as
+                              provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items.
 - [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
 - [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
