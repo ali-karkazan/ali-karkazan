@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ali! <br/><a href="https://www.linkedin.com/in/ali-karkazan/">Airport Operation Officer</a>, <a href="https://www.linkedin.com/in/ali-karkazan/">Cybersecurity Professional</a>,
+<!-- <h1>Hi, I'm Ali! <br/><a href="https://www.linkedin.com/in/ali-karkazan/">Airport Operation Officer</a>, <a href="https://www.linkedin.com/in/ali-karkazan/">Cybersecurity Professional</a>,
 <a href="https://www.linkedin.com/in/ali-karkazan/">Web Developer</a>
 <a href="https://ali-karkazan.github.io/CV/">My CV</a>
 
@@ -31,7 +31,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor -->
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
